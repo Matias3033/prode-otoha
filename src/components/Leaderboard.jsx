@@ -93,7 +93,7 @@ function PrizesBanner({ anyResult, freeMonthWinners, secretBoxWinner }) {
     <div className="grid gap-4 sm:grid-cols-2">
       <div className="card p-5">
         <p className="eyebrow">Premio 1</p>
-        <h3 className="mt-1 text-lg font-bold text-ink">1 mes de clase gratis</h3>
+        <h3 className="mt-1 text-lg font-bold text-ink">1 mes de clase gratis de canto con la Prof Victoria Meeroff</h3>
         <p className="mt-1 text-sm text-ink/60">
           Para quien acierte el marcador exacto de los 3 partidos.
         </p>
