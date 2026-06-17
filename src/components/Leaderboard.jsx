@@ -189,7 +189,7 @@ function Legend() {
 function Empty({ title, body }) {
   return (
     <div className="card flex flex-col items-center px-6 py-16 text-center">
-      <span className="font-display text-4xl text-wine/30">音</span>
+      <span className="font-display text-4xl text-wine/30">音葉</span>
       <h3 className="mt-4 text-lg font-bold text-ink">{title}</h3>
       <p className="mt-1 max-w-sm text-sm text-ink/55">{body}</p>
     </div>
