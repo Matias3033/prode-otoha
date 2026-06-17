@@ -6,7 +6,7 @@ export default function Header({ view, setView, isAdmin }) {
           onClick={() => setView('ranking')}
           className="group flex items-center gap-3 text-left"
         >
-          <span className="font-display text-2xl font-bold text-wine">音</span>
+          <span className="font-display text-2xl font-bold text-wine">音葉</span>
           <div className="leading-tight">
             <p className="font-display text-base font-bold text-ink sm:text-lg">
               Prode Mundial 2026
