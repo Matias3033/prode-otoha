@@ -4,7 +4,7 @@ export default function Predictions({ participants }) {
   if (participants.length === 0) {
     return (
       <div className="card flex flex-col items-center px-6 py-16 text-center">
-        <span className="font-display text-4xl text-wine/30">音</span>
+        <span className="font-display text-4xl text-wine/30">音葉</span>
         <h3 className="mt-4 text-lg font-bold text-ink">
           No hay predicciones todavía
         </h3>
