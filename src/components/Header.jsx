@@ -12,7 +12,7 @@ export default function Header({ view, setView, isAdmin }) {
               Prode Mundial 2026
             </p>
             <p className="text-[11px] uppercase tracking-[0.18em] text-ink/50">
-              Otoha · Grupo J
+              Otoha · Llaves de Eliminatorias
             </p>
           </div>
         </button>
