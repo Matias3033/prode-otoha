@@ -69,8 +69,8 @@ export const TIEBREAKERS = [
   },
   {
     id: 'posicion',
-    label: '¿Argentina Campeon?',
+    label: 'Posición',
     type: 'select',
-    options: ['Si', 'No'],
+    options: ['1ro', '2do'],
   },
 ]
