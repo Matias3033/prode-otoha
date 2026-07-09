@@ -126,8 +126,8 @@ function Hero() {
     <section className="mx-auto max-w-5xl px-4 pb-8 pt-10 sm:px-6 sm:pt-14">
       <p className="eyebrow">Mundial 2026 · Llaves de Eliminatorias</p>
       <h1 className="mt-2 max-w-2xl text-3xl font-bold leading-tight text-ink sm:text-4xl">
-        El prode de Argentina,{' '}
-        <span className="text-wine">en una sola tabla</span>.
+        Prode Otohiano 2026{' '}
+        <span className="text-wine">Desde Cuartos de Final</span>.
       </h1>
       <p className="mt-3 max-w-xl text-ink/60">
         Cargá las predicciones de cada participante y dejá que la tabla
